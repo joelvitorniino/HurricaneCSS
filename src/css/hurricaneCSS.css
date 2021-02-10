@@ -1,284 +1,487 @@
 * {
-    margin: none;
-    padding: none;
+  margin: none;
+  padding: none;
 }
 
 .cl-blue {
-    color: blue;
+  color: blue;
 }
 
 .cl-black {
-    color: black;
+  color: black;
 }
 
 .cl-aquamarine {
-    color: aquamarine;
+  color: aquamarine;
 }
 
 .cl-red {
-    color: red;
+  color: red;
 }
 
 .cl-yellow {
-    color: yellow;
+  color: yellow;
 }
 
 .cl-green {
-    color: green;
+  color: green;
 }
 
 .cl-purple {
-    color: purple;
+  color: purple;
 }
 
 .cl-pink {
-    color: pink;
+  color: pink;
 }
 
 .cl-white {
-    color: white;
+  color: white;
 }
 
 .cl-aliceblue {
-    color: aliceblue;
+  color: aliceblue;
 }
 
 .cl-antiquewhite {
-    color: antiquewhite;
+  color: antiquewhite;
 }
 
 .cl-aqua {
-    color: aqua;
+  color: aqua;
 }
 
 .cl-azure {
-    color: azure;
+  color: azure;
 }
 
 .cl-beige {
-    color: beige;
+  color: beige;
 }
 
 .cl-bisque {
-    color: bisque;
+  color: bisque;
 }
 
 .cl-blanchedalmond {
-    color: blanchedalmond;
+  color: blanchedalmond;
 }
 
 .cl-blueviolet {
-    color: blueviolet;
+  color: blueviolet;
 }
 
 .cl-brown {
-    color: brown;
+  color: brown;
 }
 
 .cl-burlywood {
-    color: burlywood;
+  color: burlywood;
 }
 
 .cl-cadetblue {
-    color: cadetblue;
+  color: cadetblue;
 }
 
 .cl-chartreuse {
-    color: chartreuse;
+  color: chartreuse;
 }
 
 .cl-chocolate {
-    color: chocolate; 
+  color: chocolate;
 }
 
 .cl-coral {
-    color: coral;
+  color: coral;
 }
 
 .cl-cornflowerblue {
-    color: cornflowerblue;
+  color: cornflowerblue;
 }
 
 .cl-cornsilk {
-    color: cornsilk; 
+  color: cornsilk;
 }
 
 .cl-crimson {
-    color: crimson; 
+  color: crimson;
 }
 
 .cl-cyan {
-    color: cyan; 
+  color: cyan;
 }
 
 .cl-darkblue {
-    color: darkblue;
+  color: darkblue;
 }
 
 .cl-darkcyan {
-    color: darkcyan;
+  color: darkcyan;
 }
 
 .cl-darkgoldenrod {
-    color: darkgoldenrod; 
+  color: darkgoldenrod;
 }
 
 .cl-darkgray {
-    color: darkgray; 
+  color: darkgray;
 }
 
 .cl-darkgreen {
-    color: darkgreen; 
+  color: darkgreen;
 }
 
 .cl-darkgrey {
-    color: darkgrey;
+  color: darkgrey;
 }
 
 .cl-darkkhaki {
-    color: darkkhaki;
+  color: darkkhaki;
 }
 
 .cl-darkmagenta {
-    color: darkmagenta;
+  color: darkmagenta;
 }
 
 .cl-darkolivegreen {
-    color: darkolivegreen;
+  color: darkolivegreen;
 }
 
 .cl-darkorange {
-    color: darkorange; 
+  color: darkorange;
 }
 
 .cl-darkorchid {
-    color: darkorchid;
+  color: darkorchid;
 }
 
 .cl-darkred {
-    color: darkred;
+  color: darkred;
 }
 
 .cl-darksalmon {
-    color: darksalmon; 
+  color: darksalmon;
 }
 
 .cl-darkseagreen {
-    color: darkseagreen; 
+  color: darkseagreen;
 }
 
 .cl-darkslateblue {
-    color: darkslateblue;
+  color: darkslateblue;
 }
 
 .cl-darkslategrey {
-    color: darkslategrey;
+  color: darkslategrey;
 }
 
 .cl-darkslategray {
-    color: darkslategray; 
+  color: darkslategray;
 }
 
 .cl-darkturquoise {
-    color: darkturquoise; 
+  color: darkturquoise;
 }
 
 .cl-darkviolet {
-    color: darkviolet; 
+  color: darkviolet;
 }
 
 .cl-deeppink {
-    color: deeppink; 
+  color: deeppink;
 }
 
 .cl-deepskyblue {
-    color: deepskyblue; 
+  color: deepskyblue;
 }
 
 .cl-dimgray {
-    color: dimgray;
+  color: dimgray;
 }
 
 .cl-dimgrey {
-    color: dimgrey; 
+  color: dimgrey;
 }
 
 .cl-dodgerblue {
-    color: dodgerblue; 
+  color: dodgerblue;
 }
 
 .cl-firebrick {
-    color: firebrick; 
+  color: firebrick;
 }
 
 .cl-floralwhite {
-    color: floralwhite; 
+  color: floralwhite;
 }
 
 .cl-forestgreen {
-    color: forestgreen; 
+  color: forestgreen;
 }
 
 .cl-fuchsia {
-    color: fuchsia; 
+  color: fuchsia;
 }
 
 .cl-gainsboro {
-    color: gainsboro; 
+  color: gainsboro;
 }
 
 .cl-ghostwhite {
-    color: ghostwhite; 
+  color: ghostwhite;
 }
 
 .cl-gold {
-    color: gold; 
+  color: gold;
 }
 
 .cl-goldenrod {
-    color: goldenrod;
+  color: goldenrod;
 }
 
 .cl-gray {
-    color: gray; 
+  color: gray;
 }
 
 .cl-greenyellow {
-    color: greenyellow;
+  color: greenyellow;
 }
 
 .cl-grey {
-    color: grey; 
+  color: grey;
 }
 
 .cl-honeydew {
-    color: honeydew; 
+  color: honeydew;
 }
 
 .cl-hotpink {
-    color: hotpink; 
+  color: hotpink;
 }
 
 .cl-indianred {
-    color: indianred;
+  color: indianred;
 }
 
 .cl-indigo {
-    color: indigo;
+  color: indigo;
 }
 
 .cl-ivory {
-    color: ivory; 
+  color: ivory;
 }
 
 .cl-khaki {
-    color: khaki; 
+  color: khaki;
 }
 
 .cl-lavender {
-    color: lavender;
+  color: lavender;
 }
 
 .cl-lavenderblush {
-    color: lavenderblush;
+  color: lavenderblush;
+}
+
+.cl-lawngreen {
+  color: lawngreen;
+}
+
+.cl-lemonchiffon {
+  color: lemonchiffon;
+}
+
+.pg-ld {
+  background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%);
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+}
+
+aside.sidebar {
+  position: fixed;
+  height: 100%;
+  padding: 32px 24px;
+  background: #15c3d6;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@keyframes up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes right {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.anm-up {
+  animation-name: up;
+  animation-duration: 300ms;
+  animation-fill-mode: backwards;
+}
+
+.anm-right {
+  animation-name: right;
+  animation-duration: 300ms;
+}
+
+.anm-appear {
+  animation-name: appear;
+  animation-duration: 300ms;
+  animation-fill-mode: backwards;
+}
+
+.primary-button {
+  margin-top: 6.4rem;
+  width: 100%;
+  height: 6.4rem;
+  border: 0;
+  cursor: pointer;
+  background: #3cdc8c;
+  border-radius: 2rem;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s;
+  text-decoration: none;
+}
+
+.primary-button-blue:hover {
+  background: #36cf82;
+}
+
+.primary-button img {
+  margin-right: 1.6rem;
+}
+
+.button-select {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.button-select button {
+  height: 6.4rem;
+  background: #f5f8fa;
+  border: 1px solid #d3e2e5;
+  color: #5c8599;
+  cursor: pointer;
+}
+
+.button-select button.active {
+  background: #edfff6;
+  border: 1px solid #a1e9c5;
+  color: #37c77f;
+}
+
+.button-select button:first-child {
+  border-radius: 2rem 0 0 2rem;
+}
+
+.button-select button:last-child {
+  border-radius: 0 2rem 2rem 0;
+}
+
+.with-sidebar {
+  padding-left: 110px;
+}
+
+.container {
+  margin: auto;
+  width: min(90%, 112rem);
+}
+
+.input-block label {
+  color: #8fa7b3;
+  margin-left: 0.8rem;
+  line-height: 1.5;
+}
+
+@media (min-width: 760px) {
+  #container {
+    padding: 5rem 2rem;
+  }
+
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .location,
+  h1,
+  .visit p {
+    height: initial;
+    text-align: initial;
+  }
+
+  .location {
+    text-align: right;
+    font-size: 2.4rem;
+    line-height: 1.5;
+  }
+
+  main h1 {
+    font-weight: bold;
+    line-height: 0.88;
+
+    margin: clamp(10%, 9vh, 12%) 0 4rem;
+
+    width: min(300px, 80%);
+  }
+
+  .visit {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .visit p {
+    font-size: 2.4rem;
+    line-height: 1.5;
+    width: clamp(20rem, 20vw, 30rem);
+  }
+
+  .visit a {
+    margin: initial;
+  }
+}
+
+.map-container {
+    margin-top: 6.4rem;
+    background: #e6f7fb;
+    border: 1px solid #DDE3F0;
+    border-radius: 2rem;
+}
+
+.images {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    column-gap: 1.6rem;
+    margin: 16px 40px 0;
 }
