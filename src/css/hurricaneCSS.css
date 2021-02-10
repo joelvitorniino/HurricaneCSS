@@ -1,3 +1,17 @@
+/* HurricaneCSS devoleped by Joel Vitor */
+
+body {
+    margin: 0;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  }  
+
 * {
   margin: none;
   padding: none;
@@ -484,4 +498,96 @@ aside.sidebar {
     grid-template-columns: repeat(6, 1fr);
     column-gap: 1.6rem;
     margin: 16px 40px 0;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-aquamarine {
+    background-color: aquamarine;
+}
+
+.bg-fuchsia {
+    background-color: fuchsia;
+}
+
+.bg-blue {
+    background-color: blue; 
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-white {
+    background-color: white; 
+}
+
+.bg-aqua {
+    background-color: aqua;
+}
+
+.bg-antiquewhite {
+    background-color: antiquewhite;
+}
+
+.bg-purple {
+    background-color: purple;
+}
+
+.bg-pink {
+    background-color: pink; 
+}
+
+.bg-white {
+    background-color: white; 
+}
+
+.bg-blueLighter {
+    background-color: #2ABCE1;
+}
+
+.font-arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.font-georgia {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.font-impact {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.font-cambria {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.font-gillsans {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.font-segoe {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.font-lucida {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.font-trebuchet {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.font-verdana {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.font-times-new-roman {
+    font-family: 'Times New Roman', Times, serif;
 }
