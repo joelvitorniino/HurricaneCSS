@@ -1,8 +1,5 @@
 /* HurricaneCSS devoleped by Joel Vitor */
 
-::root {
-  --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
 
 body {
     margin: 0;
@@ -594,4 +591,49 @@ aside.sidebar {
 
 .font-times-new-roman {
     font-family: 'Times New Roman', Times, serif;
+}
+
+.font-courier {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.font-fantasy {
+  font-family: fantasy;
+}
+
+.font-cursive {
+  font-family: cursive;
+}
+
+.font-applesystem {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.font-size-small {
+  font-size: small;
+}
+
+.font-size-large {
+  font-size: large;
+}
+
+button {
+  border-radius: 3;
+}
+
+button:focus {
+  outline: dotted 1px;
+  outline: -webkit-focus-ring-color auto 5px;
+}
+
+.content {
+  font-size: 3rem;
+}
+
+.content > .title {
+    font-size: 2.5rem;
+    font-weight: 300;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #999;
+    margin-bottom: 20px;
 }
